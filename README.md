@@ -32,7 +32,7 @@ Optional Hardware
 ### Installation
 1. clone the repo
    ```sh
-   git clone 'https://github.com/DucAnh-Vu-Trinh/MSP430FR2355_Arduino_Temperature_and_OtherStuff.git'
+   git clone https://github.com/DucAnh-Vu-Trinh/MSP430FR2355_Arduino_Temperature_and_OtherStuff.git
    ```
 2. Add the MSP430FR2355 directory to Code Composer Workspace; or create a new project and add the source code there <details>
                     <summary>Project Settings</summary>
