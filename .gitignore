@@ -1,7 +1,5 @@
-./MSP430FR2355/Debug/
-./MSP430FR2355/Release/
-./MSP430FR2355/Debug/
-./MSP430FR2355/Debug/
-./MSP430FR2355/.launches/
-./MSP430FR2355/.settings/
-./MSP430FR2355/.ccsproject
+/MSP430FR2355/Debug/
+/MSP430FR2355/Release/
+/MSP430FR2355/.launches/
+/MSP430FR2355/.settings/
+/MSP430FR2355/.ccsproject
